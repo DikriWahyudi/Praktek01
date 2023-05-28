@@ -8,6 +8,5 @@ public class MahasiswaAksi {
         Dikri.NPM = "2110010528";
         Dikri.IPK = 4.0;
         
-        Dikri.CetakInfo();
     }
 }
